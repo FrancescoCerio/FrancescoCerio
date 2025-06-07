@@ -15,7 +15,11 @@
 ![YAML](https://img.shields.io/badge/-YAML-C9DF40?style=flat&logo=yaml&logoColor=black)
 
 ## 📈 GitHub Stats
-![Francesco Cerio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancescoCerio&show_icons=true&theme=radical)
+<!-- GitHub Stats Card -->
+![Francesco Cerio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancescoCerio&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&custom_title=My%20GitHub%20Stats)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoCerio&layout=compact&hide_border=true&theme=tokyonight)
 
 📌 Note
 
