@@ -18,6 +18,7 @@
 ![Francesco Cerio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancescoCerio&show_icons=true&theme=radical)
 
 📌 Note
+
 Although this account may look quiet, I'm actively working as a software developer at TicketSms, contributing primarily through a business GitHub account. Most of my commits live there!
 
 
